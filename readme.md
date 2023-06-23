@@ -1,0 +1,1 @@
+This template was forked from [casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv). My resume is viewable on [dennisklicker.github.io](https://dennisklicker.github.io).
